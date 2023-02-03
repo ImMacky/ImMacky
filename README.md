@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey, I'm Macky 👋
 
-<!--
-**ImMacky/ImMacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡️ Experience
 
-Here are some ideas to get you started:
+I've been working with Skript for about 2 years, just started learning Lua, and have some knowledge using Javascript mainly for personal use discord bots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<h3 align="Center">Discord:</h3>
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/721050757721227264)](https://discord.com/users/721050757721227264)
+
+<h3 align="Center">Github Stats:</h3>
+  
+  ![Macky's GitHub stats](https://github-readme-stats.vercel.app/api?username=immacky&show_icons=true&theme=dark)
+</div>
