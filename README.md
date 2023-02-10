@@ -2,7 +2,7 @@
 
 ## ⚡️ Experience
 
-I've been working with Skript for about 2 years, just started learning Lua, and have some knowledge using Javascript mainly for personal use discord bots.
+I've been working with Skript for about 2 years, Java for around a few months, just started learning Lua, and have some knowledge using Javascript mainly for personal use discord bots.
 
 <div align="center">
 
