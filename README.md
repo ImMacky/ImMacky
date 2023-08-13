@@ -2,7 +2,7 @@
 
 ## ⚡️ Experience
 
-I'm mack I do FiveM stuff
+I'm mack
 
 <div align="center">
 
