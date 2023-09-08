@@ -2,7 +2,7 @@
 
 ## ⚡️ Experience
 
-I'm mack
+2 1/2+ Years Skript (Minecraft) - 6+ Months Lua (FiveM) - 
 
 <div align="center">
 
