@@ -35,8 +35,10 @@
 ### Stats and Discord
 
 <div align="center">
+
 ![Macky's GitHub stats](https://github-readme-stats.vercel.app/api?username=immacky&show_icons=true&theme=dark)
 [![Discord Presence](https://lanyard.cnrad.dev/api/721050757721227264)](https://discord.com/users/721050757721227264)
+
 </div>
 
 #
