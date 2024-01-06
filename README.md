@@ -2,7 +2,7 @@
 
 # Macky
 
-**`FiveM Script Developer and Junior Frontend Developer`**
+**`FiveM Script Developer`**
 
    <p>
       <a href="https://github.com/ImMacky?tab=followers">
