@@ -27,7 +27,12 @@
 ### Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![FREE QBCore ATM Robbery v1.2 Script Showcase](https://ytcards.demolab.com/?id=MQqkcDOHATU&title=FREE+QBCore+ATM+Robbery+v1.2+Script+Showcase&lang=en&timestamp=1694050162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=78 "FREE QBCore ATM Robbery v1.2 Script Showcase")](https://www.youtube.com/watch?v=MQqkcDOHATU)
+[![Free QBCore Dumpster Depths v1 Script Showcase](https://ytcards.demolab.com/?id=m-2BUUgmseQ&title=Free+QBCore+Dumpster+Depths+v1+Script+Showcase&lang=en&timestamp=1686625848&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=30 "Free QBCore Dumpster Depths v1 Script Showcase")](https://www.youtube.com/watch?v=m-2BUUgmseQ)
+[![Free QBCore Starter GiftBox v1.5 Script Showcase](https://ytcards.demolab.com/?id=H6rOQsEZfk0&title=Free+QBCore+Starter+GiftBox+v1.5+Script+Showcase&lang=en&timestamp=1686080769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=30 "Free QBCore Starter GiftBox v1.5 Script Showcase")](https://www.youtube.com/watch?v=H6rOQsEZfk0)
+[![Free QBCore Starter GiftBox v1.3 Script Showcase](https://ytcards.demolab.com/?id=zY3tu-oqFtk&title=Free+QBCore+Starter+GiftBox+v1.3+Script+Showcase&lang=en&timestamp=1679795865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26 "Free QBCore Starter GiftBox v1.3 Script Showcase")](https://www.youtube.com/watch?v=zY3tu-oqFtk)
+[![FREE QBCore Starter Gift Box Script Showcase](https://ytcards.demolab.com/?id=mtoYvVRTMK4&title=FREE+QBCore+Starter+Gift+Box+Script+Showcase&lang=en&timestamp=1679018178&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25 "FREE QBCore Starter Gift Box Script Showcase")](https://www.youtube.com/watch?v=mtoYvVRTMK4)
+[![FREE QBCore ATM Robbery v1.1 Script Showcase](https://ytcards.demolab.com/?id=wE1ox_tb4wU&title=FREE+QBCore+ATM+Robbery+v1.1+Script+Showcase&lang=en&timestamp=1678557584&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59 "FREE QBCore ATM Robbery v1.1 Script Showcase")](https://www.youtube.com/watch?v=wE1ox_tb4wU)
 <!-- END YOUTUBE-CARDS -->
 
 ### Stats and Discord
