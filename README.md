@@ -2,7 +2,7 @@
 
 # Macky
 
-**`FiveM Script Developer | Lead @ SyncLib`**
+**`Lead @ SyncLib | FiveM Script Developer`**
 
    <p>
       <a href="https://github.com/ImMacky?tab=followers">
