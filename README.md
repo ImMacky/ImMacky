@@ -13,7 +13,7 @@
 
 ---
 
-### 🔑 Languages
+# 🔑 Languages
 
 <img alt="LUA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
 <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -24,7 +24,7 @@
 
 #
 
-### 🧼 Latest YouTube Videos
+# 🧼 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![FREE QBCore ATM Robbery v1.2 Script Showcase](https://ytcards.demolab.com/?id=MQqkcDOHATU&title=FREE+QBCore+ATM+Robbery+v1.2+Script+Showcase&lang=en&timestamp=1694050162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=78 "FREE QBCore ATM Robbery v1.2 Script Showcase")](https://www.youtube.com/watch?v=MQqkcDOHATU)
@@ -35,7 +35,7 @@
 [![FREE QBCore ATM Robbery v1.1 Script Showcase](https://ytcards.demolab.com/?id=wE1ox_tb4wU&title=FREE+QBCore+ATM+Robbery+v1.1+Script+Showcase&lang=en&timestamp=1678557584&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59 "FREE QBCore ATM Robbery v1.1 Script Showcase")](https://www.youtube.com/watch?v=wE1ox_tb4wU)
 <!-- END YOUTUBE-CARDS -->
 
-### 🎈 Stats and Discord
+# 🎈 Stats and Discord
 ![Macky's GitHub stats](https://github-readme-stats.vercel.app/api?username=immacky&show_icons=true&theme=dark)
 [![Discord Presence](https://lanyard.cnrad.dev/api/721050757721227264)](https://discord.com/users/721050757721227264)
 
