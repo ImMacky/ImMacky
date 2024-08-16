@@ -2,7 +2,7 @@
 
 # 🤿 Macky
 
-**`Director @ SyncLib | FiveM Script Developer`**
+**`Owner @ SyncLib | FiveM Script Developer`**
 
    <p>
       <a href="https://github.com/ImMacky?tab=followers">
