@@ -2,7 +2,7 @@
 
 # 🤿 Macky
 
-**`Owner @ SyncLib | FiveM Resource Developer`**
+**`Owner @ Aerolabs / Synclib`**
 
 ---
 
