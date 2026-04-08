@@ -2,7 +2,7 @@
 
 # 🤿 Macky
 
-**`Owner @ Aerolabs / Synclib`**
+**`Owner @ Aerolabs / Mackys Development`**
 
 ---
 
