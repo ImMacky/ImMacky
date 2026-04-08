@@ -25,8 +25,4 @@
 [![FREE QBCore Starter Gift Box Script Showcase](https://ytcards.demolab.com/?id=mtoYvVRTMK4&title=FREE+QBCore+Starter+Gift+Box+Script+Showcase&lang=en&timestamp=1679018178&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25 "FREE QBCore Starter Gift Box Script Showcase")](https://www.youtube.com/watch?v=mtoYvVRTMK4)
 <!-- END YOUTUBE-CARDS -->
 
-#
-
-[youtube]: https://www.youtube.com/@MackyDev
-
 </div>
